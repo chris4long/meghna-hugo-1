@@ -33,4 +33,5 @@ fields:
     max: 
   label: Benefits
 pages:
+- exampleSite/content/project/Specsavers.md
 - exampleSite/data/en/Clients/easyjet.md
