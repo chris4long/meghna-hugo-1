@@ -1,5 +1,5 @@
 ---
-label: homepage_section
+label: client_section
 hide_body: true
 fields:
 - type: field_group
