@@ -1,6 +1,7 @@
 ---
 label: Project
 hide_body: false
+display_field: client
 fields:
 - name: client
   type: text
