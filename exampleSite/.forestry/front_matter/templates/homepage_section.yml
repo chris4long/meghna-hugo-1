@@ -16,12 +16,8 @@ fields:
     name: client_project
     label: client_project
     fields:
-    - type: text
-      name: name
-      label: name
-    - type: text
-      name: icon
-      label: icon
-    - type: textarea
-      name: content
-      label: content
+    - name: client-project
+      type: include
+      config: {}
+      template: project2
+      label: client-project
