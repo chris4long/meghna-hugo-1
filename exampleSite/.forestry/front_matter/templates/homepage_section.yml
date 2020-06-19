@@ -21,5 +21,3 @@ fields:
       config: {}
       template: project2
       label: client-project
-pages:
-- exampleSite/data/en/new_cust.md
