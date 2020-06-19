@@ -3,8 +3,8 @@ label: homepage_section
 hide_body: true
 fields:
 - type: field_group
-  name: service
-  label: service
+  name: clients
+  label: Clients
   fields:
   - type: boolean
     name: enable
