@@ -5,13 +5,14 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Project Post
+  label: Project Posts
 - type: directory
   path: exampleSite/content/project
-  label: Post
+  label: Project Post
   create: all
   match: "**/*"
   templates:
+  - project2
   - project
 - type: heading
   label: Blog Post
