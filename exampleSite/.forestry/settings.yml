@@ -63,7 +63,7 @@ sections:
   label: Configuration
 - type: directory
   path: layouts
-  label: Layout
+  label: Layouts
   create: all
   match: "**/*"
 - type: directory
