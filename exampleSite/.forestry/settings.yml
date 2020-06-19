@@ -62,6 +62,11 @@ sections:
 - type: heading
   label: Configuration
 - type: directory
+  path: layout
+  label: Layout
+  create: all
+  match: "**/*"
+- type: directory
   path: exampleSite
   label: Configuration
   create: all
