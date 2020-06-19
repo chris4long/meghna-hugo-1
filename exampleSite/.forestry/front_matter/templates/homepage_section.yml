@@ -13,8 +13,8 @@ fields:
     name: title
     label: title
   - type: field_group_list
-    name: service_item
-    label: service_item
+    name: client_project
+    label: client_project
     fields:
     - type: text
       name: name
