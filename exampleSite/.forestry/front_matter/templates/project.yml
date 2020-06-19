@@ -32,3 +32,5 @@ fields:
     min: 
     max: 
   label: Benefits
+pages:
+- exampleSite/data/en/Clients/easyjet.md
