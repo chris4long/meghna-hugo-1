@@ -6,14 +6,28 @@ fields:
   name: title
   label: title
 - type: datetime
-  name: date
-  label: date
+  name: start_year
+  label: start year
+  hidden: false
+  config:
+    date_format: YYYY
+    required: false
+- name: end_year
+  type: datetime
+  label: end year
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - type: file
   name: image_webp
-  label: image_webp
+  label: company background image
+  description: for instance a plane taking off
 - type: file
-  name: image
-  label: image
+  name: company_logo
+  label: company logo
 - type: text
   name: author
   label: author
