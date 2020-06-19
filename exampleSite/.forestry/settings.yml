@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Project Post
 - type: directory
-  path: example/content/project
+  path: exampleSite/content/project
   label: Post
   create: all
   match: "**/*"
