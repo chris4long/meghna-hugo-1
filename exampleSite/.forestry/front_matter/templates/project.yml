@@ -36,3 +36,4 @@ fields:
 pages:
 - exampleSite/content/project/Specsavers.md
 - exampleSite/data/en/Clients/easyjet.md
+- exampleSite/data/en/ONS.md
