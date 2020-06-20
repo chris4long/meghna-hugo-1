@@ -1,7 +1,7 @@
 - id: blogTitle
   translation: Latest Post
 - id: clientsTitle
-  translation: Some of our projects  
+  translation: projects  
 - id: readMore
   translation: Read more
 - id: viewAllPost
