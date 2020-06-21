@@ -3,7 +3,8 @@ benefits = ["asd asdasd43r"]
 client = "Specsavers"
 company_logo = "/images/specsavers-logo.png"
 description = "asd asdasd  "
-image_webp = "/images/specsavers-shop-sign.jpg"
+image = "/images/specsavers-shop-sign.jpg"
+image_webp = "/images/specsavers-logo.png"
 year = "2019-05-31T23:00:00.000+00:00"
 
 +++
