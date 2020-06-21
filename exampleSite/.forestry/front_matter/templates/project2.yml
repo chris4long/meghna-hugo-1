@@ -23,11 +23,11 @@ fields:
     time_format: 
     display_utc: false
 - type: file
-  name: image_webp
+  name: image
   label: company background image
   description: for instance a plane taking off
 - type: file
-  name: company_logo
+  name: image_webp
   label: company logo
 - type: text
   name: author
