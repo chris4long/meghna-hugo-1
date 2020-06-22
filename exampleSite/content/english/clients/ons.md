@@ -1,7 +1,6 @@
 +++
 author = ""
 description = ""
-draft = true
 end_year = ""
 image = "/images/ons-census-logo.jpg"
 image_webp = "/images/ons-logo.png"
